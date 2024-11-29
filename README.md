@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
+```
 views.py:
 from django.shortcuts import render
 from django.http import HttpResponse
@@ -125,7 +126,7 @@ footer {
     font-size: 0.5em;
     color: #777;
 }
-
+```
 
 # OUTPUT:
 ![alt text](<Screenshot 2024-11-29 112147.png>)
